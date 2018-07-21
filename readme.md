@@ -11,3 +11,5 @@ or
 
 1. To publish with mkdocs - use the following command - `mkdocs gh-deploy`
 2. once the execution is successful, mkdocs checkin to the remote `gh-pages` branch and publish as github page
+
+You can see the published site of this repository in [here](https://mohanramphp.github.io/mkdoc-tryout/)
